@@ -1,0 +1,46 @@
+h1 {
+    cor: zul;
+}
+h2{
+    cor: rosa choque;
+}
+h3{
+    cor: rosa choque;
+}
+h4 {
+    cor: rosa choque;
+}
+
+corpo {
+    cor de fundo: lavanda;
+    alinhamento de texto: centro;
+}
+.imagem1 {
+    largura: 20%;
+}
+.imagemcentralizada {
+ alinhamento de texto: centro;
+}
+
+.unicórnio {
+    estilo da fonte: inicial;
+
+}
+.brilho {
+   cor: rosa profundo;
+    estilo de fonte: itálico
+}
+.lista {
+        display: bloco embutido;
+        preenchimento: 5%;
+        margem direita: 10%;
+        cor: fúcsia;
+    }
+
+navegar em{
+    transformação de texto: maiúscula;
+    cor: orquídea escura;
+    peso da fonte: 300;
+    tamanho da fonte: 100%;
+    decoração de texto: nenhum;
+}
